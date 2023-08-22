@@ -14,8 +14,8 @@
 int main()
 {
     int number;
-    printf(" welcom to C Programming class \n \n");
-    printf("Enter an integer:");
+    printf(" welcome to C Programming class \n \n");
+    printf("Enter an integer this time:");
     //reads and stores input
     scanf ("%d", &number);
     //display output

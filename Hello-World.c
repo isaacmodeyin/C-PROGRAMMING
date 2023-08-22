@@ -3,7 +3,7 @@
 
 int main() {
     // Write C code here
-    printf("Hello world");
+    printf("Hello world ");
     printf("CSC 201 ");
     printf("C Programming ");
     printf("First Practical Class ");
