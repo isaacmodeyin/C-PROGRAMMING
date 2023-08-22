@@ -3,8 +3,8 @@
 int main()
 {
     printf("Hello ISAAC World\n");
-    printf("Good morning to you all and ");
-    printf("Happy coding😂😎!!!\n");
-    printf("we are moving!!!🙏🏻");
+    printf("Welcome to Tuesday ");
+    printf("Keep coding @iz</>😎!!!\n");
+    printf("Elevating!!!🙏🏻");
     return 0;
 }
