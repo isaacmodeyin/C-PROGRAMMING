@@ -20,3 +20,36 @@ int main()
         return 0;
     }
 }
+
+/* 
+#include <stdio.h>
+
+int main()
+{
+    // variable to be used in switch statement
+    char var = 'b';
+    printf("Enter a Character between a-d: ");
+    scanf("%c",&var);
+    // declare switch cases
+    switch (var)
+    {
+    case 'a':
+        printf("Case 'a' is executed");
+        break;
+    case 'b':
+        printf("Case 'b' is executed");
+        break;
+    case 'c':
+        printf("Case 'c' is executed");
+        break;
+    case 'd':
+        printf("Case 'd' is executed");
+        break;
+    default:
+        printf("Default Case is executed");
+        break;
+    }
+
+    return 0;
+} 
+ */

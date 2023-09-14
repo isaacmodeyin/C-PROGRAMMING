@@ -4,7 +4,9 @@
 
 int main()
 {
-    int day = 2;
+    int day ;
+    printf("Enter a numeric day number: ");
+    scanf("%d", &day);
 
     printf("The day with number %d is ", day);
     switch (day)
